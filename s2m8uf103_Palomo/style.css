@@ -11,7 +11,6 @@ img{
 }
 .dreta{
   float: right;
-  margin-left: 10px;
 }
 .inicial p::first-letter{
   color: white;
@@ -25,9 +24,13 @@ img{
 .c1{
   width: 390px;
   float: left;
-
 }
 .c2{
   width: 390px;
   float: right;
+}
+h2{
+  font-family: georgia, times;
+  font-family: helvetica, arial, sans-serif;
+  font-family: cursive;
 }
