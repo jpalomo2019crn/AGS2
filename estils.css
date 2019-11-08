@@ -1,0 +1,28 @@
+li{
+  background-color: purple;
+  display: block;
+
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+ul{
+  overflow: hidden;
+  width: 880px;
+  margin: 0 auto;
+}
+/*.anular{
+  clear: left;
+}
+*/
+#a1{background-image: url(a1.png);
+background-size: 100%;}
+#a2{ background-image: url(a2.png);
+background-size: 100%;}
+#a3{background-image: url(a3.png);
+background-size: 100%;}
+#a5{background-image: url(a5.png);
+background-size: 100%;}
+#a6{background-image: url(a6.png);
+background-size: 100%;}
