@@ -1,0 +1,18 @@
+div{
+  width: 200px;
+  height: 200px;
+  background-color: chartreuse;
+  margin: 10px;
+}
+.prova{
+  background-color: purple;
+  position: absolute;
+  right: 0px;
+  top:50px;
+}
+.prova2{
+  background-color: cyan;
+  position: absolute;
+  right: 0px;
+  top:50px;
+}

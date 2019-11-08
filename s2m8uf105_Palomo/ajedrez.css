@@ -1,0 +1,48 @@
+li{
+  height: 100px;
+  width: 100px;
+  float: left;
+  display: block;
+  background-color: white;
+
+}
+div{
+  padding: 20px;
+  background-color: green;
+  margin: 0 auto;
+  width: 800px;
+}
+ul{
+  background-color: green;
+  overflow: hidden;
+  margin:0 auto;
+  padding: 0px;
+  width: 800px;
+}
+ul:nth-child(1n) li:nth-child(2n){
+  background-color: black;
+}
+ul:nth-child(2n) li:nth-child(1n){
+  background-color: black;
+}
+ul:nth-child(2n) li:nth-child(2n){
+background-color: white;}
+#filera1 li{
+  display: none;
+}
+.blanco{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: white;
+  margin: 10px;
+  box-shadow: inset 5px 5px 5px grey;
+}
+.negro{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: black;
+  margin: 10px;
+  box-shadow: inset 5px 5px 5px grey;
+}
